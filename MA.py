@@ -1,5 +1,5 @@
-# simple calculater
-
+#1.2 build
+#Definition: MA calculater, Incomplete work.
 #adding 2 numbers
 def add(x, y):
     return x + y
@@ -22,7 +22,10 @@ print("Select Operation")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
-print("4.Divide (MA is outf / inf, effiency is inf /outf): ")
+print("4.Divide")
+print("IMA is Fr / Fe")
+print("MA is OUTf / INf")
+print("efficiency is INf / OUTf")
 
 while True
     #takes input from user
